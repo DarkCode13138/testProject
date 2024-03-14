@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0bd283fa-665c-42c0-9b2c-49b9e536914a" name="test">
+        <fileTransfer accessType="SFTP" host="b24-test1.newsite.by" port="22991" sshConfigId="995d0fcf-97ae-455f-92e4-fcb71c21db5a" sshConfig="bitrix@b24-test1.newsite.by:22991 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
